@@ -25,6 +25,6 @@ transaction {
   
       self.receiverRef.deposit(token: <-newNFT, metadata: metadata)
 
-      log("NFT Minted and deposited to Account 2's Collection")
+      log("NFT Minted and deposited to Account Collection")
   }
 }

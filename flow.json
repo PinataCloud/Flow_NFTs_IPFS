@@ -6,8 +6,8 @@
 		}
 	},
 	"contracts": {
-		"PinataPartyContract": "./cadence/contracts/PinataPartyContract.cdc"
-	},
+    "PinataPartyContract": "./cadence/contracts/PinataPartyContract.cdc"
+  },
 	"networks": {
 		"emulator": {
 			"host": "127.0.0.1:3569",
@@ -17,13 +17,13 @@
 	"accounts": {
 		"emulator-account": {
 			"address": "f8d6e0586b0a20c7",
-			"keys": "6b50dbfb7403cb502278a4f660f719993024f02ace260cf594543176184b7c8d",
+			"keys": "efe2c75a5381bf6b8afc6dc34d4ebad2bcaeae7b2108b56e2a34ac98f39559db",
 			"chain": "flow-emulator"
 		}
 	},
 	"deployments": {
-		"emulator": {
-			"emulator-account": ["PinataPartyContract"]
-		}
-	}
+    "emulator": {
+      "emulator-account": ["PinataPartyContract"]
+    }
+  }
 }
