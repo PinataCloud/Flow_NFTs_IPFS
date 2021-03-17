@@ -18,12 +18,12 @@
 	},
 	"accounts": {
 		"emulator-account": {
-			"address": "f8d6e0586b0a20c7",
-			"keys": "e5ca2b0946358223f0555206144fe4d74e65cbd58b0933c5232ce195b9058cdd"
+			"address": "ADDRESS",
+			"keys": "PRIVATE_KEY"
 		}, 
 		"second-account": {
-			"address": "01cf0e2f2f715450", 
-			"keys": "6441442458044928e0b5d14c8297fbe041b6334bc3b4abdab05cfe512026d96e"
+			"address": "ADDRESS", 
+			"keys": "PRIVATE_KEY"
 		}
 	},
 	"deployments": {
